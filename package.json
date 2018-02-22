@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:zacky1972/test-gulp-parcel-port-source-maps.git",
   "author": "Susumu Yamazaki <zacky1972@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gulp-parcel": "^0.3.4"
+  }
 }
