@@ -6,6 +6,8 @@
   "author": "Susumu Yamazaki <zacky1972@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^3.0.2",
     "gulp-parcel": "^0.3.4"
   }
 }
