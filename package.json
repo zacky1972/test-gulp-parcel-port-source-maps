@@ -1,0 +1,8 @@
+{
+  "name": "test-gulp-parcel-port-source-maps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zacky1972/test-gulp-parcel-port-source-maps.git",
+  "author": "Susumu Yamazaki <zacky1972@gmail.com>",
+  "license": "MIT"
+}
